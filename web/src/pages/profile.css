@@ -1,0 +1,29 @@
+.custom-card-profile {
+  background-color: #ffffff99;
+  border: 6px solid #8bc34a80;
+  box-shadow: 0px 0px 4px 00px rgb(255 255 255);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.province-info {
+  color: #535456;
+  font-weight: bold;
+  font-size: unset;
+  margin: 0;
+}
+
+.profile-info {
+  padding: 20px 0px 0px 20px;
+  color: #535456;
+}
+
+.profile-description {
+  color: black;
+  font-style: italic;
+  padding: 15px 15px 0px;
+}
+
+.pet-item.fixed-height {
+  height: 420px;
+}

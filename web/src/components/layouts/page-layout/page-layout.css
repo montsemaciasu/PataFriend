@@ -1,0 +1,7 @@
+.background-layout {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: #8bc34a2b;
+  padding: 0px 0px 50px;
+}
